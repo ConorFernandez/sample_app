@@ -1,1 +1,1 @@
-This is the sample Twitter-like application for the [Ruby on Rails Tutorial].
+This is the sample Twitter-like application for the [*Ruby on Rails Tutorial*].
